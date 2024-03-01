@@ -1,0 +1,17 @@
+GET http://localhost:3000/allergy/2
+
+### 
+
+GET http://localhost:3000/user/2
+ 
+
+
+
+###
+
+POST http://localhost:3000/colocation
+
+
+
+
+

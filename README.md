@@ -1,2 +1,1 @@
-# coloc_and_co
-coloc&amp;co app
+# projet-coloc-and-co-back
